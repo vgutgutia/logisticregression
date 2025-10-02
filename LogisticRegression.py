@@ -75,7 +75,7 @@ w = np.zeros(n_with_bias)
 # hyper params
 learning_rate = 0.1
 print("Learning Rate:", learning_rate)
-num_iterations = 3000
+num_iterations = 7000
 print("Number of Iterations:", num_iterations)
 cost_history = []
 
